@@ -5,7 +5,7 @@ This is an **Intro to Data Science** project that predicts loan application appr
 
 ## 📊 Dataset
 - **Source**: Kaggle Loan Dataset
-- **Records**: 10,000+ loan applications
+- **Records**: 44,000+ loan applications
 - **Features**: Income, Credit Score, Loan Amount, Employment Years, etc.
 - **Target Variable**: Loan Approval (Binary Classification)
 
